@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EveryCoolPic</string>
+    <string name="text_type">Type</string>
+    <string name="text_enable">Enable</string>
+    <string name="summary_enable">Change once a day</string>
+    <string name="text_change_now">Change Now</string>
+    <string name="text_source">Source Code</string>
+    <string name="summary_source">By TaRGroup-liangyuteng0927</string>
+    <string-array name="type_entry">
+        <item>Hand picked</item>
+        <item>Hot</item>
+        <item>Splash</item>
+        <item>New</item>
+        <item>2K</item>
+    </string-array>
+    <string-array name="type_value" translatable="false">
+        <item>recommend</item>
+        <item>hot</item>
+        <item>splash</item>
+        <item>newest</item>
+        <item>2k</item>
+    </string-array>
+</resources>

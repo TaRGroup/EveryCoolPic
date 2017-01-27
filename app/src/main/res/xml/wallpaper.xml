@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:title="@string/text_enable"
+        android:key="key_enable"
+        android:summary="@string/summary_enable"/>
+    <Preference
+        android:title="@string/text_change_now"
+        android:key="key_start_now" />
+    <ListPreference
+        android:title="@string/text_type"
+        android:key="key_type"
+        android:entries="@array/type_entry"
+        android:entryValues="@array/type_value"
+        android:defaultValue="splash"/>
+    <Preference
+        android:title="@string/text_source"
+        android:summary="@string/summary_source"
+        android:key="key_source" />
+</PreferenceScreen>

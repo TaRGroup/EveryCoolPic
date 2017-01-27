@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日酷图</string>
+    <string name="summary_enable">将会每天自动更换</string>
+    <string name="text_type">类型</string>
+    <string name="text_source">源代码</string>
+    <string name="summary_source">来自 TaRGroup-liangyuteng0927</string>
+    <string name="text_change_now">立即更换</string>
+    <string name="text_enable">启用</string>
+    <string-array name="type_entry">
+        <item>精选</item>
+        <item>热门</item>
+        <item>启动页</item>
+        <item>最新</item>
+        <item>2K</item>
+    </string-array>
+</resources>
